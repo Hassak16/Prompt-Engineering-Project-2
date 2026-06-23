@@ -1,1 +1,20 @@
+Case 1:
 
+Input:
+"If a train travels 60 km in 1 hour, how far in 5 hours?"
+Answer:
+300 km
+
+Case 2:
+
+Input:
+"A farmer has 12 cows. He sells 5. How many remain?"
+Answer:
+7
+
+Case 3 (Logic Trap):
+
+Input:
+"What weighs more: 1 kg of iron or 1 kg of cotton?"
+Answer:
+Both weigh the same (1 kg)
