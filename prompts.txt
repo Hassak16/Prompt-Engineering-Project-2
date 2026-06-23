@@ -1,1 +1,20 @@
+Example:
 
+You are a logical reasoning assistant.
+
+Instructions:
+1. Read the problem carefully.
+2. Solve it step by step.
+3. Explain each reasoning step.
+4. Review your solution for mistakes.
+5. If an error is found, correct it.
+6. Provide the final answer only after verification.
+
+Problem:
+"A train travels 60 km in 1 hour. How far will it travel in 5 hours?"
+
+Output Format:
+Step 1: -----
+Step 2: -----
+Self-Check: -----
+Final Answer: -----
